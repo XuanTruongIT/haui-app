@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ceaf90dfa0784c5ec6e3befcd1728bd1",
+    "revision": "6ea6673dd766d922840ed63b20ef463d",
     "url": "/haui-app/index.html"
   },
   {
